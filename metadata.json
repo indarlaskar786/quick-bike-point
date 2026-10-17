@@ -1,0 +1,7 @@
+{
+  "name": "Quick Bike Point | Bike & Scooter Service",
+  "description": "Quick Bike Point provides bike and scooter servicing, repairs and maintenance in Panathur, Bengaluru. Call or WhatsApp for service enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
